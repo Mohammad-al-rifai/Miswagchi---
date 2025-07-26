@@ -183,17 +183,17 @@ flutter run
 ### User & Profile
 | Profile | User Profile | User Profile 2 | Me Overview |
 |:---:|:---:|:---:|:---:|
-| ![](assets/screenshots/profile_view.jpg) | ![](assets/screenshots/user_profile_view.jpg) | ![](assets/screenshots/user_profile_view#2.jpg) | ![](assets/screenshots/me_overview.jpg) |
+| ![](assets/screenshots/profile_view.jpg) | ![](assets/screenshots/user_profile_view.jpg) | ![](assets/screenshots/user_profile_view2.jpg) | ![](assets/screenshots/me_overview.jpg) |
 
 ### Orders & Details
 | Orders | Order Details 1 | Order Details 2 |
 |:---:|:---:|:---:|
-| ![](assets/screenshots/orders_view.jpg) | ![](assets/screenshots/order_details_view#1.jpg) | ![](assets/screenshots/order_details_view#2.jpg) |
+| ![](assets/screenshots/orders_view.jpg) | ![](assets/screenshots/order_details_view1.jpg) | ![](assets/screenshots/order_details_view2.jpg) |
 
 ### Recipes
 | Recipe Details 1 | Recipe Details 2 | Recipe Details 3 | Recipe Details 4 |
 |:---:|:---:|:---:|:---:|
-| ![](assets/screenshots/recipe_details_view#1.jpg) | ![](assets/screenshots/recipe_details_view#2.jpg) | ![](assets/screenshots/recipe_details_view#3.jpg) | ![](assets/screenshots/recipe_details_view#4.jpg) |
+| ![](assets/screenshots/recipe_details_view1.jpg) | ![](assets/screenshots/recipe_details_view2.jpg) | ![](assets/screenshots/recipe_details_view3.jpg) | ![](assets/screenshots/recipe_details_view4.jpg) |
 
 ### AI & Chat
 | AI Agent | Chat |
