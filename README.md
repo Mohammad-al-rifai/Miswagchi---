@@ -173,7 +173,7 @@ flutter run
 ### Onboarding & Authentication
 | Onboarding 1 | Onboarding 2 | Onboarding 3 | Language Selection | Login |
 |:---:|:---:|:---:|:---:|:---:|
-| ![](assets/screenshots/onboarding_view#1.jpg) | ![](assets/screenshots/onboarding_view#2.jpg) | ![](assets/screenshots/onboarding_view#3.jpg) | ![](assets/screenshots/language_view.jpg) | ![](assets/screenshots/login_view.jpg) |
+| ![](assets/screenshots/onboardingView1.jpg) | ![](assets/screenshots/onboardingView2.jpg) | ![](assets/screenshots/onboardingView3.jpg) | ![](assets/screenshots/language_view.jpg) | ![](assets/screenshots/login_view.jpg) |
 
 ### Home & Showcase
 | Home 1 | Home 2 | Showcase 1 | Showcase 2 | Showcase 3 |
