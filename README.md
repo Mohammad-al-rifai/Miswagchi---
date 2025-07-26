@@ -178,7 +178,7 @@ flutter run
 ### Home & Showcase
 | Home 1 | Home 2 | Showcase 1 | Showcase 2 | Showcase 3 |
 |:---:|:---:|:---:|:---:|:---:|
-| ![](assets/screenshots/home_view#1.jpg) | ![](assets/screenshots/home_view#2.jpg) | ![](assets/screenshots/showcase_view#1.jpg) | ![](assets/screenshots/showcase_view#2.jpg) | ![](assets/screenshots/showcase_view#3.jpg) |
+| ![](assets/screenshots/homeView1.jpg) | ![](assets/screenshots/homeView2.jpg) | ![](assets/screenshots/showcaseView1.jpg) | ![](assets/screenshots/showcaseView2.jpg) | ![](assets/screenshots/showcaseView3.jpg) |
 
 ### User & Profile
 | Profile | User Profile | User Profile 2 | Me Overview |
